@@ -1,0 +1,15 @@
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\DynamicalEntitlementCreation.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\DynamicalEntitlementCreation.pdb
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\obj\Debug\DynamicalEntitlementCreation.csprojAssemblyReference.cache
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\obj\Debug\DynamicalEntitlementCreation.csproj.CoreCompileInputs.cache
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\obj\Debug\DynamicalEntitlementCreation.csproj.CopyComplete
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\obj\Debug\DynamicalEntitlementCreation.dll
+C:\Users\848695\source\repos\DynamicalEntitlementCreationSoln\DynamicalEntitlementCreation\obj\Debug\DynamicalEntitlementCreation.pdb
